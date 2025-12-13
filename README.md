@@ -2,6 +2,7 @@ An end-to-end data engineering pipeline that ingests, cleans, transforms, wareho
 
 **Project Overview**
 This project demonstrates a production-style ETL pipeline capable of processing millions of records efficiently on a local machine.
+
 **Key features include:**
 Chunk-based ingestion to handle very large CSV files
 Data cleaning and normalization
@@ -10,6 +11,7 @@ DuckDB analytics warehouse
 SQL-based analytics and KPI generation
 Clean, modular project structure
 GitHub-friendly data handling (sample data + Kaggle source)
+
 **What This Project Demonstrates**
 Real-world data engineering best practices
 Handling large datasets locally
